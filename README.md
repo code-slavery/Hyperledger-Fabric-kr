@@ -1,6 +1,3 @@
----
-description: 소개 페이지 입니다.
----
+# README
 
-# 소개
-
+HyperledgerFabric 공식문서를 번역하는 저장소입니다.
