@@ -2,9 +2,9 @@
 
 * [README](README.md)
 
-## Introduction
+## Introdcuction
 
-* [소개](<README (1).md>)
+* [소개](introdcuction/undefined.md)
 
 ## What's new in Hyperledger Fabric v2.x
 
